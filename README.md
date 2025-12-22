@@ -1,4 +1,4 @@
-# IT Troubleshooting & Documentation Lab
+# IT Troubleshooting & Documentación Lab
 
 Este repositorio es un laboratorio de práctica orientado a **Helpdesk / IT Support / Junior IT Analyst**.
 
@@ -57,3 +57,4 @@ El foco está en:
 ## Autor
 
 Tomás Martelon  
+
