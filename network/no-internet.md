@@ -1,4 +1,4 @@
-# Usuario sin acceso a Internet
+# Users Without Internet Access
 
 ## Symptoms
 One or more users report that they are unable to browse the Internet.
