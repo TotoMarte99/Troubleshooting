@@ -5,7 +5,7 @@ Situacion donde un o varios usuarios indican que no puede navegar por Internet.
 Nos indican que los equipos están encendidos y conectados a la red WiFi o cableada correctamente.
 
 ## Posibles causas
-- Problema de conectividad local, implicaria cables desconectados, WI-FI desactivaedo o hardware dañado.
+- Problema de conectividad local, implicaria cables desconectados, WI-FI desactivando o hardware dañado.
 - Dirección IP incorrecta, conficlo de IP, mascara de subred erronea o falta de respueta DHCP.
 - Fallo en DNS, el equipo no puede traducir URLs en direcciones IP.
 - Problema con el router o gateway, el router no responde a las solicitudes de salida hacia internet.
