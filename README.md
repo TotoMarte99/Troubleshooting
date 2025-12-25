@@ -1,3 +1,64 @@
+###ENGLISH
+# IT Troubleshooting & Documentation Lab
+
+This repository is a hands-on practice lab focused on Helpdesk / IT Support / Junior IT Analyst roles.
+
+The goal of this project is to simulate how technical incidents are diagnosed, documented, and resolved in a real IT support environment.
+
+This project is not about coding, but about critical thinking, analysis, and clear technical documentation.
+
+---
+
+## Project Objective
+- Practice diagnosing common IT incidents
+- Improve technical documentation skills
+- Simulate a Knowledge Base (KB)
+- Apply a structured approach to problem-solving
+
+
+
+## How does this lab work?
+
+Each file represents a real-world incident that could be reported to a Service Desk.
+
+Incidents are organized by category:
+- Network
+- System
+- Security
+
+All incidents follow the same structure to ensure consistency and clarity.
+
+---
+
+## Incident Estructure
+
+Each Incident includes:
+
+-Symptoms
+-Possible Causes
+-Diagnosis
+-Solution
+-Prevention
+
+This format is commonly used in IT support teams and helps with escalation and documentation.
+---
+
+##Professional Approach
+
+The focus is on:
+
+-Clarity over complexity
+-Real-world scenarios
+-Useful documentation
+-Preventive thinking
+
+##Autor
+
+Tomas Martelon
+
+
+###SPANISH
+
 # IT Troubleshooting & Documentación Lab
 
 Este repositorio es un laboratorio de práctica orientado a **Helpdesk / IT Support / Junior IT Analyst**.
@@ -57,4 +118,5 @@ El foco está en:
 ## Autor
 
 Tomás Martelon  
+
 
