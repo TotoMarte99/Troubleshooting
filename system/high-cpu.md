@@ -1,39 +1,40 @@
-# Caso en donde se visualiza un elevado uso de CPU en el equipo
+# High CPU Usage on User Device
 
-## Síntomas
-El usuario reporta que el equipo funciona lento.
-Los programas tardan en responder y el ventilador permanece activo.
+## Symptoms
+The user reports that the device is running slowly.
+Applications take longer than usual to respond, and the cooling fan remains constantly active.
 
-## Posibles causas
-- Procesos en segundo plano consumiendo CPU excesivamente.
-- Aplicaciones configuradas para iniciar automaticamente.
-- Malware o software no deseado
-- Falta de recursos del sistema para la carga de trabajo.
+## Possibles causes
+- Background processes consuming excessive CPU resources.
+- Applications configured to start automatically at system boot.
+- Malware or potentially unwanted software.
+- Insufficient system resources for the current workload.
 
-## Diagnóstico
-1. Abrir el administrador de tareas
-2. Identificar y ordenar procesos con alto consumo de CPU
-3. Verificar aplicaciones de inicio
-4. Ejecutar un escaneo básico de seguridad para identicar procesos anomalos.
-5. Verificar actualizaciones pendientes del sistema
+## Diagnosis
+1. Open the Task Manager.
+2. Identify and sort processes by CPU usage.
+3. Review startup applications.
+4. Run a basic security scan to identify abnormal or suspicious processes.
+5. Check for pending operating system updates.
 
-## Ejemplo:
+## Examples:
 
-- Se detecta que un navegador con múltiples pestañas consume más del 70% de la CPU.
-- También se observa un programa desconocido iniciando con el sistema.
+- A web browser with multiple open tabs is consuming more than 70% of the CPU.
+- An unknown application is configured to start automatically with the system.
 
-## Ejemplo de resolución:
-- Se cerraron pestañas del navegador reduciendo el uso de CPU al 20%.
-- Se deshabilitó una aplicación de inicio automático que no era necesaria.
-- El equipo volvió a responder con normalidad.
+## Resolution Example:
+- Browser tabs were closed, reducing CPU usage to 20%.
+- An unnecessary startup application was disabled.
+- The device returned to normal performance.
 
-## Solución
-- Finalizar aplicaciones innecesarias
-- Deshabilitar aplicaciones de inicio no esenciales
-- Desinstalar software innecesario o no autorizado.
-- Aplicar actualizaciones del sistema pendientes.
+## Solution
+- Terminate unnecessary applications.
+- Disable non-essential startup programs.
+- Uninstall unnecessary or unauthorized software.
+- Apply pending system updates.
 
-## Prevención
-- Mantener el sistema actualizado
-- Controlar aplicaciones de inicio
-- Educación básica al usuario sobre uso del sistema
+## Prevention
+- Keep the operating system up to date. 
+- Regulary review startup applications.
+- Provide basic user education on proper system usage.
+
