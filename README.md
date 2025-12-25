@@ -1,4 +1,5 @@
-###ENGLISH
+#ENGLISH
+
 # IT Troubleshooting & Documentation Lab
 
 This repository is a hands-on practice lab focused on Helpdesk / IT Support / Junior IT Analyst roles.
@@ -57,7 +58,7 @@ The focus is on:
 Tomas Martelon
 
 
-###SPANISH
+#SPANISH
 
 # IT Troubleshooting & Documentación Lab
 
@@ -118,5 +119,6 @@ El foco está en:
 ## Autor
 
 Tomás Martelon  
+
 
 
