@@ -1,19 +1,18 @@
-# Título de la incidencia
+# Incidence Title
 
-## Síntomas
-Descripción de lo que reporta el usuario.
+## Symptoms
+Description of the issue reported by the user.
 
-## Posibles causas
-Listado de causas probables del problema.
+## Possible Causes
+List of the most common root causes.
 
-## Diagnóstico
-Pasos realizados para identificar el origen del problema.
+## Diagnosis
+Steps to correctly identify the root cause.
 
-## Solución
-Acciones tomadas para resolver la incidencia.
+## Solution
+Actions taken to resolve the issue.
 
-## Ejemplos
-Explicaciones basadas en ejemplos reales
+## Examples
 
-## Prevención
-Medidas para evitar que el problema vuelva a ocurrir.
+## Prevetion
+
