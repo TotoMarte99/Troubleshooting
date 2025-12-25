@@ -1,44 +1,45 @@
-# Correo electrónico sospechoso de phishing
+# Suspicious Phishing Email
 
-## Síntomas
-El usuario informa haber recibido un correo electrónico solicitando la verificación de su cuenta.
-El mensaje incluye un enlace y un tono de urgencia indicando que la cuenta será bloqueada.
+## Symptoms
+The user reports receiving an email requesting account verification.
+The message contains a link and uses an urgent tone, warning that the account will be blocked.
 
-## Posibles causas
-- Campañas de phishing masivas dirigidas a usuarios corporativos
-- Falta de concientización en seguridad
-- Filtros de correo insuficientes o mal configurados
+## Possible Causes
+-Mass phishing campaigns targeting corporate users
+-Lack of security awareness
+-Insufficient or misconfigured email filtering
 
-## Diagnóstico
-1. Solicitar al usuario que no interactúe con el correo.
-2. Revisar el remitente y el dominio del correo.
-3. Analizar el enlace sin abrirlo (hover).
-4. Verificar errores gramaticales o mensajes genéricos.
-5. Confirmar si la empresa legítima solicita ese tipo de información por correo.
+## Diagnosis
+1. Instruct the user not to interact with the email.
+2. Review the sender’s address and email domain.
+3. Analyze the link without clicking it (hover inspection).
+4. Check for grammatical errors or generic messaging.
+5. Verify whether the legitimate company would request such information via email.
 
-Ejemplo:
-- El remitente aparenta ser legítimo, pero el dominio no coincide con el oficial.
-- El enlace redirige a una URL externa no relacionada con la empresa.
+Example Findings:
+- The sender appears legitimate, but the domain does not match the official one.
+- The link redirects to an external URL unrelated to the company.
 
-## Solución
-- Indicar al usuario que elimine el correo.
-- Reportar el mensaje al área de IT o seguridad.
-- Bloquear el dominio remitente si corresponde.
+## Solution
+- Instruct the user to delete the email.
+- Report the message to the IT or Security team.
+- Block the sender domain if applicable.
 
-## Caso en el que el usuario interactuo con el enlace
-- Si el usuario interactuó con el enlace:
-  - Se debe forzar cambio de contraseña
-  - Revisar todos los accesos recientes
-  - Recomendar escaneo del equipo de manera urgente
+## Case: User Clicked the Link
+- If the user interacted with the link:
+  - Force an immediate password reset.
+  - Review recent login activity.
+  - Recommend an urgent malware/antivirus scan of the device.
    
 
-## Ejemplo de resolución:
-- El correo fue eliminado sin interacción.
-- Se informó al equipo de IT para prevenir otros casos.
-- No se detectaron accesos no autorizados.
+## Resolution Example:
+- The email was deleted without user interaction.
+- The incident was reported to the IT team to prevent similar cases.
+- No unauthorized access was detected.
 
-## Prevención
-- Capacitación periódica en concientización de seguridad.
-- Uso de contraseñas fuertes y únicas.
-- Activación de doble factor de autenticación.
-- Promover la verificación antes de interactuar con correos sospechosos.
+## Prevention
+- Provide regular security awareness training.
+- Enforce strong, unique passwords.
+- Enable multi-factor authentication (MFA).
+- Encourage users to verify messages before interacting with suspicious emails.
+
